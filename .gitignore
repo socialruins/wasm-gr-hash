@@ -1,3 +1,4 @@
 .idea
 node_modules
 lib/wasm-build
+lib/gr-wasm-build
